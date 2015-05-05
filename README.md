@@ -1,15 +1,19 @@
 # WalkPotato
 
-![Walk Potato Icon] {https://raw.githubusercontent.com/NCSUMobiles/Spring15-walkpotato/master/app/src/main/res/drawable/mascot.png}
+![Walk Potato Icon](https://raw.githubusercontent.com/NCSUMobiles/Spring15-walkpotato/master/app/src/main/res/drawable/mascot.png)
 
 # Tagline
 An App that strikes a balance between entertainment and fitness.
 
 # Team 
 Aaditya Sriram
+
 Fanmao Chen 
+
 Kenan Warren
+
 Parth Satra
+
 Sushil Ganesh
 
 # Problem Description
@@ -25,6 +29,7 @@ We would like to add features like social media integration to add a competitive
 
 # Link to video 
 Introduction to Walk Potato: https://youtu.be/3Q6CmFi1Z_4
+
 App Demo: https://youtu.be/26j5W-VkiiY
 
 
